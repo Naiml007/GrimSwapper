@@ -1,0 +1,11 @@
+C:\Users\Caleb\Desktop\GRIMCHANGER v0.0.1\AeSplashChanger\obj\Release\GrimSwapper.csproj.AssemblyReference.cache
+C:\Users\Caleb\Desktop\GRIMCHANGER v0.0.1\AeSplashChanger\obj\Release\GrimSwapper.csproj.SuggestedBindingRedirects.cache
+C:\Users\Caleb\Desktop\GRIMCHANGER v0.0.1\AeSplashChanger\obj\Release\AeSplashChanger.MainForm.resources
+C:\Users\Caleb\Desktop\GRIMCHANGER v0.0.1\AeSplashChanger\obj\Release\GrimSwapper.Properties.Resources.resources
+C:\Users\Caleb\Desktop\GRIMCHANGER v0.0.1\AeSplashChanger\obj\Release\GrimSwapper.csproj.GenerateResource.cache
+C:\Users\Caleb\Desktop\GRIMCHANGER v0.0.1\AeSplashChanger\obj\Release\GrimSwapper.csproj.CoreCompileInputs.cache
+C:\Users\Caleb\Desktop\GRIMCHANGER v0.0.1\AeSplashChanger\bin\Release\GrimSwapper.exe.config
+C:\Users\Caleb\Desktop\GRIMCHANGER v0.0.1\AeSplashChanger\bin\Release\GrimSwapper.exe
+C:\Users\Caleb\Desktop\GRIMCHANGER v0.0.1\AeSplashChanger\bin\Release\GrimSwapper.pdb
+C:\Users\Caleb\Desktop\GRIMCHANGER v0.0.1\AeSplashChanger\obj\Release\GrimSwapper.exe
+C:\Users\Caleb\Desktop\GRIMCHANGER v0.0.1\AeSplashChanger\obj\Release\GrimSwapper.pdb
