@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  AE Splash Changer GUI Beta
+  GrimSwapper BETA
   <br>
 </h1>
 
