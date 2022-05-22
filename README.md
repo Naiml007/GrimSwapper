@@ -4,14 +4,10 @@
   <br>
 </h1>
 
-<div align="center">
-  <a href="https://github.com/kruumy/AE-Splash-Changer-GUI/releases"><img src="https://img.shields.io/github/v/release/kruumy/AE-Splash-Changer-GUI?label=Latest%20version&style=flat-square"></a>
-  <a href="https://paypal.me/JPauls281"><img src="https://img.shields.io/badge/Donate-Paypal-orange?style=flat-square"></a>
-</div>
 
 <h4 align="center">Easily Customize the After Effects Splash Screen!</a>!</h4>
 <div align="center">
-  <a href="https://github.com/kruumy/AE-Splash-Changer-GUI/blob/main/preview.png">
+  <a href="https://github.com/vys69/GrimSwapper/blob/main/preview.png>
     <img src="preview.png" alt="Preivew">
   </a>
 </div>
@@ -19,7 +15,7 @@
 ## Installation
 
 1. Download the latest version from **releases**. -->
-2. Extract the zip and run the AeSplashChanger.exe
+2. Extract the zip and run the GrimSwapper.exe
 3. Import Your Custom Splash Screen
 4. Then Export
 5. Done!
