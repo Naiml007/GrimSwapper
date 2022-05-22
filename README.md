@@ -46,7 +46,6 @@ If it does not work on your version, please contact me.
 ---
 
 **Please contact me if you find any bugs or have any suggestions.**
-#### Twitter: @kruumy
-#### Discord: kruumy#9443
+#### Discord: vys#0069
 
 
